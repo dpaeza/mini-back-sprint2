@@ -1,0 +1,101 @@
+{
+  "flights": [
+    { 
+      "id": 1,
+      "origin": "Barranquilla",
+      "destination": "Medellin",
+      "date": "30/11/2023",
+      "base rate": 200.000,
+      "duration": "1h 57min",
+      "take off": "05:50 PM",
+      "land" : "06:47 PM",
+      "available seats": 60,
+      "luggage" :{
+        "personal objetc": 50.000,
+        "hand luggage": 100.000,
+        "25 Kg": 200.000
+      }
+    },
+    { 
+      "id": 2,
+      "origin": "Medellin",
+      "destination": "Barranquilla",
+      "date": "28/11/2023",
+      "base rate": 300.000,
+      "duration": "1h 57min",
+      "take off": "05:50 PM",
+      "land" : "06:47 PM",
+      "available seats": 60,
+      "luggage" :{
+        "personal objetc": 70.000,
+        "hand luggage": 90.000,
+        "25 Kg": 150.000
+      }
+    },
+    { 
+      "id": 3,
+      "origin": "Bogota",
+      "destination": "Barranquilla",
+      "date": "29/11/2023",
+      "base rate": 250.000,
+      "duration": "1h 57min",
+      "take off": "05:50 PM",
+      "land" : "06:47 PM",
+      "available seats": 60,
+      "luggage" :{
+        "personal objetc": 60.000,
+        "hand luggage": 110.000,
+        "25 Kg": 210.000
+      }
+    },
+    { 
+      "id": 4,
+      "origin": "Barranquilla",
+      "destination": "Bogota",
+      "date": "27/11/2023",
+      "base rate": 230.000,
+      "duration": "1h 57min",
+      "take off": "05:50 PM",
+      "land" : "06:47 PM",
+      "available seats": 60,
+      "luggage" :{
+        "personal objetc": 30.000,
+        "hand luggage": 100.000,
+        "25 Kg": 200.000
+      }
+    },
+    { 
+      "id": 5,
+      "origin": "Medellin",
+      "destination": "Bogota",
+      "date": "26/11/2023",
+      "base rate": 220.000,
+      "duration": "1h 57min",
+      "take off": "05:50 PM",
+      "land" : "06:47 PM",
+      "available seats": 60,
+      "luggage" :{
+        "personal objetc": 40.000,
+        "hand luggage": 80.000,
+        "25 Kg": 120.000
+      }
+    },
+    { 
+      "id": 6,
+      "origin": "Bogota",
+      "destination": "Medellin",
+      "date": "25/11/2023",
+      "base rate": 320.000,
+      "duration": "1h 57min",
+      "take off": "05:50 PM",
+      "land" : "06:47 PM",
+      "available seats": 60,
+      "luggage" :{
+        "personal objetc": 90.000,
+        "hand luggage": 130.000,
+        "25 Kg": 270.000
+      }
+    }
+  ]
+
+}
