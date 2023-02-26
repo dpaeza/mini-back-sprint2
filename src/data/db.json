@@ -1,4 +1,81 @@
 {
+  "destinatios": [
+    {
+      "id":1,
+      "name": "Barranquilla",
+      "abr": "BAQ"
+    },
+    {
+      "id":2,
+      "name": "Cartagena",
+      "abr": "CTG"
+    },
+    {
+      "id":3,
+      "name": "Bogotá",
+      "abr": "BOG"
+    },
+    {
+      "id":4,
+      "name": "Medellín",
+      "abr": "BAQ"
+    },
+    {
+      "id":5,
+      "name": "Armenia",
+      "abr": "AXM"
+    },
+    {
+      "id":6,
+      "name": "Bucaramanga",
+      "abr": "BGA"
+    },
+    {
+      "id":7,
+      "name": "Cucuta",
+      "abr": "CUC"
+    },
+    {
+      "id":8,
+      "name": "Cali",
+      "abr": "CLO"
+    },
+    {
+      "id":9,
+      "name": "Ibagué",
+      "abr": "IBE"
+    },
+    {
+      "id":10,
+      "name": "Monteria",
+      "abr": "MTR"
+    },
+    {
+      "id":11,
+      "name": "Manizales",
+      "abr": "MZL"
+    },
+    {
+      "id":12,
+      "name": "Neiva",
+      "abr": "NVA"
+    },
+    {
+      "id":13,
+      "name": "Pereira",
+      "abr": "PEI"
+    },
+    {
+      "id":14,
+      "name": "Popayán",
+      "abr": "PPN"
+    },
+    {
+      "id":15,
+      "name": "Pasto",
+      "abr": "PSO"
+    }
+  ],
   "flights": [
     { 
       "id": 1,
