@@ -88,7 +88,7 @@
       "land" : "06:47 PM",
       "available_seats": 60,
       "luggage" :{
-        "personal_objetc": 50.000,
+        "personal_objetc": 50000,
         "hand_luggage": 100.000,
         "big_25Kg": 200.000
       }
@@ -172,6 +172,23 @@
         "hand_luggage": 130.000,
         "big_25_Kg": 270.000
       }
+    },
+    { 
+      "id": 7,
+      "origin": "Barranquilla",
+      "destination": "Medellín",
+      "date": "30/11/2023",
+      "base_rate": 200.000,
+      "duration": "1h 57min",
+      "take_off": "04:50 PM",
+      "land" : "05:47 PM",
+      "available_seats": 60,
+      "luggage" :{
+        "personal_objetc": 60.000,
+        "hand_luggage": 110.000,
+        "big_25Kg": 210.000
+      }
     }
+    
   ]
 }
