@@ -80,7 +80,9 @@
     { 
       "id": 1,
       "origin": "Barranquilla",
+      "origin_abr": "BAQ",
       "destination": "Medellín",
+      "destination_abr": "MED",
       "date": "30/11/2023",
       "base_rate": 200000,
       "duration": "1h 57min",
@@ -96,7 +98,9 @@
     { 
       "id": 2,
       "origin": "Medellín",
+      "origin_abr": "MED",
       "destination": "Barranquilla",
+      "destination_abr": "BAQ",
       "date": "28/11/2023",
       "base_rate": 300000,
       "duration": "1h 57min",
@@ -112,7 +116,9 @@
     { 
       "id": 3,
       "origin": "Bogotá",
+      "origin_abr": "BOG",
       "destination": "Barranquilla",
+      "destination_abr": "BAQ",
       "date": "29/11/2023",
       "base_rate": 250000,
       "duration": "1h 57min",
@@ -128,7 +134,9 @@
     { 
       "id": 4,
       "origin": "Barranquilla",
+      "origin_abr": "BAQ",
       "destination": "Bogotá",
+      "destination_abr": "BOG",
       "date": "27/11/2023",
       "base_rate": 230000,
       "duration": "1h 57min",
@@ -144,7 +152,9 @@
     { 
       "id": 5,
       "origin": "Medellín",
+      "origin_abr": "MED",
       "destination": "Bogotá",
+      "destination_abr": "BOG",
       "date": "26/11/2023",
       "base_rate": 220000,
       "duration": "1h 57min",
@@ -160,7 +170,9 @@
     { 
       "id": 6,
       "origin": "Bogotá",
+      "origin_abr": "BOG",
       "destination": "Medellín",
+      "destination_abr": "MED",
       "date": "25/11/2023",
       "base_rate": 320000,
       "duration": "1h 57min",
@@ -176,7 +188,9 @@
     { 
       "id": 7,
       "origin": "Barranquilla",
+      "origin_abr": "BAQ",
       "destination": "Medellín",
+      "destination_abr": "MED",
       "date": "30/11/2023",
       "base_rate": 200000,
       "duration": "1h 57min",
