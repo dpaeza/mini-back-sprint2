@@ -82,15 +82,15 @@
       "origin": "Barranquilla",
       "destination": "Medellín",
       "date": "30/11/2023",
-      "base_rate": 200.000,
+      "base_rate": 200000,
       "duration": "1h 57min",
       "take_off": "05:50 PM",
       "land" : "06:47 PM",
       "available_seats": 60,
       "luggage" :{
         "personal_objetc": 50000,
-        "hand_luggage": 100.000,
-        "big_25Kg": 200.000
+        "hand_luggage": 100000,
+        "big_25Kg": 200000
       }
     },
     { 
@@ -98,15 +98,15 @@
       "origin": "Medellín",
       "destination": "Barranquilla",
       "date": "28/11/2023",
-      "base_rate": 300.000,
+      "base_rate": 300000,
       "duration": "1h 57min",
       "take_off": "05:50 PM",
       "land" : "06:47 PM",
       "available_seats": 60,
       "luggage" :{
-        "personal_objetc": 70.000,
-        "hand_luggage": 90.000,
-        "big_25_Kg": 150.000
+        "personal_objetc": 70000,
+        "hand_luggage": 90000,
+        "big_25_Kg": 150000
       }
     },
     { 
@@ -114,15 +114,15 @@
       "origin": "Bogotá",
       "destination": "Barranquilla",
       "date": "29/11/2023",
-      "base_rate": 250.000,
+      "base_rate": 250000,
       "duration": "1h 57min",
       "take_off": "05:50 PM",
       "land" : "06:47 PM",
       "available_seats": 60,
       "luggage" :{
-        "personal_objetc": 60.000,
-        "hand_luggage": 110.000,
-        "big_25_Kg": 210.000
+        "personal_objetc": 60000,
+        "hand_luggage": 110000,
+        "big_25_Kg": 210000
       }
     },
     { 
@@ -130,15 +130,15 @@
       "origin": "Barranquilla",
       "destination": "Bogotá",
       "date": "27/11/2023",
-      "base_rate": 230.000,
+      "base_rate": 230000,
       "duration": "1h 57min",
       "take_off": "05:50 PM",
       "land" : "06:47 PM",
       "available_seats": 60,
       "luggage" :{
-        "personal_objetc": 30.000,
-        "hand_luggage": 100.000,
-        "big_25_Kg": 200.000
+        "personal_objetc": 30000,
+        "hand_luggage": 100000,
+        "big_25_Kg": 200000
       }
     },
     { 
@@ -146,15 +146,15 @@
       "origin": "Medellín",
       "destination": "Bogotá",
       "date": "26/11/2023",
-      "base_rate": 220.000,
+      "base_rate": 220000,
       "duration": "1h 57min",
       "take_off": "05:50 PM",
       "land" : "06:47 PM",
       "available_seats": 60,
       "luggage" :{
-        "personal_objetc": 40.000,
-        "hand_luggage": 80.000,
-        "big_25_Kg": 120.000
+        "personal_objetc": 40000,
+        "hand_luggage": 80000,
+        "big_25_Kg": 120000
       }
     },
     { 
@@ -162,15 +162,15 @@
       "origin": "Bogotá",
       "destination": "Medellín",
       "date": "25/11/2023",
-      "base_rate": 320.000,
+      "base_rate": 320000,
       "duration": "1h 57min",
       "take_off": "05:50 PM",
       "land" : "06:47 PM",
       "available_seats": 60,
       "luggage" :{
-        "personal_objetc": 90.000,
-        "hand_luggage": 130.000,
-        "big_25_Kg": 270.000
+        "personal_objetc": 90000,
+        "hand_luggage": 130000,
+        "big_25_Kg": 270000
       }
     },
     { 
@@ -178,15 +178,15 @@
       "origin": "Barranquilla",
       "destination": "Medellín",
       "date": "30/11/2023",
-      "base_rate": 200.000,
+      "base_rate": 200000,
       "duration": "1h 57min",
       "take_off": "04:50 PM",
       "land" : "05:47 PM",
       "available_seats": 60,
       "luggage" :{
-        "personal_objetc": 60.000,
-        "hand_luggage": 110.000,
-        "big_25Kg": 210.000
+        "personal_objetc": 60000,
+        "hand_luggage": 110000,
+        "big_25Kg": 210000
       }
     }
     
