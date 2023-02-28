@@ -90,7 +90,7 @@
       "luggage" :{
         "personal_objetc": 50.000,
         "hand_luggage": 100.000,
-        "25_Kg": 200.000
+        "big_25Kg": 200.000
       }
     },
     { 
@@ -106,7 +106,7 @@
       "luggage" :{
         "personal_objetc": 70.000,
         "hand_luggage": 90.000,
-        "25_Kg": 150.000
+        "big_25_Kg": 150.000
       }
     },
     { 
@@ -122,7 +122,7 @@
       "luggage" :{
         "personal_objetc": 60.000,
         "hand_luggage": 110.000,
-        "25_Kg": 210.000
+        "big_25_Kg": 210.000
       }
     },
     { 
@@ -138,7 +138,7 @@
       "luggage" :{
         "personal_objetc": 30.000,
         "hand_luggage": 100.000,
-        "25_Kg": 200.000
+        "big_25_Kg": 200.000
       }
     },
     { 
@@ -154,7 +154,7 @@
       "luggage" :{
         "personal_objetc": 40.000,
         "hand_luggage": 80.000,
-        "25_Kg": 120.000
+        "big_25_Kg": 120.000
       }
     },
     { 
@@ -170,7 +170,7 @@
       "luggage" :{
         "personal_objetc": 90.000,
         "hand_luggage": 130.000,
-        "25_Kg": 270.000
+        "big_25_Kg": 270.000
       }
     }
   ]
