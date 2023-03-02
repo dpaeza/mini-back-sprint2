@@ -83,6 +83,7 @@
       "origin_abr": "BAQ",
       "destination": "Medellín",
       "destination_abr": "MED",
+      "code": 1045,
       "date": "30/11/2023",
       "base_rate": 200000,
       "duration": "1h 57min",
@@ -101,7 +102,8 @@
       "origin_abr": "MED",
       "destination": "Barranquilla",
       "destination_abr": "BAQ",
-      "date": "28/11/2023",
+      "code": 1046,
+      "date": "01/12/2023",
       "base_rate": 300000,
       "duration": "1h 57min",
       "take_off": "05:50 PM",
@@ -119,6 +121,7 @@
       "origin_abr": "BOG",
       "destination": "Barranquilla",
       "destination_abr": "BAQ",
+      "code": 1047,
       "date": "29/11/2023",
       "base_rate": 250000,
       "duration": "1h 57min",
@@ -137,6 +140,7 @@
       "origin_abr": "BAQ",
       "destination": "Bogotá",
       "destination_abr": "BOG",
+      "code": 1048,
       "date": "27/11/2023",
       "base_rate": 230000,
       "duration": "1h 57min",
@@ -155,6 +159,7 @@
       "origin_abr": "MED",
       "destination": "Bogotá",
       "destination_abr": "BOG",
+      "code": 1049,
       "date": "26/11/2023",
       "base_rate": 220000,
       "duration": "1h 57min",
@@ -173,6 +178,7 @@
       "origin_abr": "BOG",
       "destination": "Medellín",
       "destination_abr": "MED",
+      "code": 1050,
       "date": "25/11/2023",
       "base_rate": 320000,
       "duration": "1h 57min",
@@ -191,6 +197,7 @@
       "origin_abr": "BAQ",
       "destination": "Medellín",
       "destination_abr": "MED",
+      "code": 1051,
       "date": "30/11/2023",
       "base_rate": 200000,
       "duration": "1h 57min",
@@ -204,5 +211,7 @@
       }
     }
     
+  ],
+  "passengers": [
   ]
 }
